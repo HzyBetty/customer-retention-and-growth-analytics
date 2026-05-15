@@ -27,13 +27,13 @@ Key problems identified:
 
 The project evaluated industry saturation, market growth trends, competitive pressure, tourism conversion performance, and profitability challenges within the Quebec craft distillery market.
 
-![Industry Analysis](assets/industry_analysis.png)
+![Industry Analysis](assets/industry_analysis.pdf)
 
 ## Customer Lifecycle Framework
 
 A customer funnel framework was developed to identify opportunities across acquisition, conversion, and retention stages.
 
-![Customer Funnel](assets/customer_funnel.png)
+![Customer Funnel](assets/customer_funnel.pdf)
 
 ## CRM & Retention Strategy
 
@@ -46,13 +46,13 @@ Key analytical areas included:
 - Personalized promotions
 - Retention KPI monitoring
 
-![CRM Strategy](assets/crm_strategy.png)
+![CRM Strategy](assets/crm_strategy.pdf)
 
 ## Implementation Roadmap
 
 A phased implementation roadmap was designed to prioritize operational feasibility, resource allocation, and staged rollout of CRM and customer engagement initiatives.
 
-![Implementation Roadmap](assets/implementation_roadmap.png)
+![Implementation Roadmap](assets/implementation_roadmap.pdf)
 
 ## KPI Evaluation & Forecasted Business Impact
 
@@ -64,7 +64,7 @@ Projected outcomes included:
 - 158% estimated ROI over 6 years
 - Improved customer conversion and retention metrics
 
-![KPI Projection](assets/kpi_projection.png)
+![KPI Projection](assets/kpi_projection.pdf)
 
 ## Key Learnings
 
